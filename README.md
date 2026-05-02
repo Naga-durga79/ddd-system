@@ -1,10 +1,10 @@
-🚀 Dopamine Driven Dashboard (DDD)
-
+🚀** Dopamine Driven Dashboard (DDD)
+**
 -> Transforming student engagement through gamification, analytics, and real-time feedback.
 
 ---
 
-👩‍💻 Author
+👩‍💻 **Author**
 
 Nalla Naga Durga
 
@@ -18,7 +18,7 @@ Email: nagadurganalla79@gmail.com
 
 ---
 
-📌 Problem Statement
+📌 **Problem Statement**
 
 Traditional learning platforms often suffer from low student engagement and motivation.
 Students tend to lose interest due to lack of:
@@ -35,11 +35,11 @@ This results in reduced learning effectiveness and poor performance tracking.
 
 ---
 
-💡 Solution
+💡 **Solution**
 
 The Dopamine Driven Dashboard (DDD) is a full-stack web application that applies gamification principles to enhance learning engagement.
 
-It introduces:
+**It introduces:**
 
 🎯 Goal-oriented dashboards
 
@@ -55,9 +55,9 @@ It introduces:
 
 ---
 
-✨ Key Features
+✨ **Key Features**
 
-👨‍🎓 Student Module
+👨‍🎓 **Student Module**
 
 Access learning modules
 
@@ -68,7 +68,7 @@ Track performance via analytics
 Earn badges and rewards
 
 
-👩‍🏫 Teacher Module
+👩‍🏫 **Teacher Module**
 
 Create and manage modules
 
@@ -79,7 +79,7 @@ Monitor student progress
 Analyze performance insights
 
 
-📊 Analytics System
+📊 **Analytics System**
 
 Visual dashboards with charts
 
@@ -88,7 +88,7 @@ Performance trends and insights
 Data-driven feedback system
 
 
-🧩 Quiz Engine
+🧩** Quiz Engine**
 
 Dynamic quiz creation
 
@@ -97,7 +97,7 @@ Attempt history tracking
 Score evaluation system
 
 
-🏅 Gamification Engine
+🏅 **Gamification Engine**
 
 Badge allocation system
 
@@ -106,7 +106,7 @@ Achievement tracking
 Motivation-driven design
 
 
-🔄 Real-Time System
+🔄 **Real-Time System**
 
 WebSocket-based updates
 
@@ -116,7 +116,7 @@ Live performance tracking
 
 ---
 
-🏗️ System Architecture
+🏗️ **System Architecture**
 
 Frontend (React + TypeScript)
         ↓
@@ -129,7 +129,7 @@ Real-Time Layer (WebSockets)
 
 ---
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Layer	Technology
 
@@ -143,7 +143,7 @@ Visualization	-- Chart Libraries
 
 ---
 
-📂 Project Structure
+📂 **Project Structure**
 
 DDD/
 │── backend/
@@ -163,9 +163,9 @@ DDD/
 
 ---
 
-⚙️ Installation & Setup
+⚙️ **Installation & Setup**
 
-1️⃣ Clone the Repository
+1️⃣ **Clone the Repository**
 
 git clone https://github.com/Naga-durga79/ddd-system.git
 cd ddd-system
@@ -173,7 +173,7 @@ cd ddd-system
 
 ---
 
-2️⃣ Backend Setup
+2️⃣ **Backend Setup**
 
 cd backend
 npm install
@@ -182,7 +182,7 @@ npm start
 
 ---
 
-3️⃣ Frontend Setup
+3️⃣ **Frontend Setup**
 
 cd frontend
 npm install
@@ -191,7 +191,7 @@ npm run dev
 
 ---
 
-🔐 Environment Variables
+🔐 **Environment Variables**
 
 Create a .env file inside backend:
 
@@ -202,7 +202,7 @@ JWT_SECRET=your_secret_key
 
 ---
 
-▶️ Running the Application
+▶️ **Running the Application**
 
 Backend → http://localhost:5000
 
@@ -212,7 +212,7 @@ Frontend → http://localhost:5173
 
 ---
 
-🚧 Challenges Faced
+🚧 **Challenges Faced**
 
 Designing a scalable role-based dashboard system
 
@@ -226,7 +226,7 @@ Integrating analytics with user activity tracking
 
 ---
 
-📚 What I Learned
+📚 **What I Learned**
 
 Full-stack application development
 
@@ -242,7 +242,7 @@ Building user engagement systems using gamification
 
 ---
 
-🔮 Future Enhancements
+🔮 **Future Enhancements**
 
 🔥 Leaderboard system
 
@@ -257,7 +257,7 @@ Building user engagement systems using gamification
 
 ---
 
-🌟 Project Highlights
+🌟 **Project Highlights**
 
 ✔ Full-stack architecture
 ✔ Real-world problem solving
@@ -268,12 +268,12 @@ Building user engagement systems using gamification
 
 ---
 
-📢 One-Line Description :
+📢** One-Line Description :**
 
 -> A full-stack gamified learning platform that boosts student engagement using analytics, quizzes, and reward-based motivation.
 
 
-🙌 Acknowledgement
+🙌 **Acknowledgement**
 
 Developed as part of academic and practical learning to explore modern full-stack development and engagement-driven systems.
 
