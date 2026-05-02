@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+
+# env files
+.env
+
+# builds
+dist
+build
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# frontend build (if React/Vite)
+frontend/dist
+frontend/build
+
+# backend logs
+backend/logs
